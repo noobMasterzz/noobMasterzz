@@ -41,38 +41,4 @@ I'm an IT student passionate about:
 |:---:|:---:|:---:|:---:|:---:|
 | Bridge | Blender 3D | Blockbench | Krita | Inkscape |
 
-### Others
 
-- JSON
-- 2D Digital Art
-- 3D Modeling
-- 3D and 2D Animation
-
-<div align="center">
-  <img src="./assets/recyclegif.gif" alt="Recycle Art Gif">
-</div>
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanStphn&show_icons=true&theme=radical" alt="Daniel's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanStphn&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-## 🔗 Connect with Me
-
-[![Email](https://img.shields.io/badge/Email-danenigma007%40gmail.com-red)](mailto:danenigma007@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ds-alvarez/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/danyhallo)
-
-## 🚀 Projects
-
-Here are some of my notable projects:
-
-- **Roblox Game:** An RPG Game with 6 classes: Assassin, Barbarian, Dwarven Warrior, Knight, Mega Knight, and Spearman. It is still under development but is already playable as the alpha release. [Try Playing Now](https://ro.blox.com/Ebh5?af_dp=roblox%3A%2F%2Fnavigation%2Fgame_details%3FgameId%3D6116228439&af_web_dp=https%3A%2F%2Fwww.roblox.com%2Fgames%2F17851222097)
-<div align="center">
-  <img src="./assets/robloxgamegif.gif" alt="Roblox Game">
-</div>
-
-- **Minecraft Bedrock Addon:** An addon enhancing gameplay mechanics. *(To be posted on Marketplace soon!)*
-- **Capstone Project:** A web application built with React.js and an Android app developed in Unity. *(Under development!)*
