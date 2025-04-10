@@ -6,7 +6,7 @@
 
 I'm an IT student passionate about:
 
-🌐 **Web Development** | 🎮 **Software Development**
+🌐 **Web Development** | ☁️ **Cloud Infrastructure**
 
 ---
 
