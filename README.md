@@ -1,39 +1,39 @@
-# Halloooo, I'm Eman Bryndt G. Baliong!
+# Halloooo, I'm Eman Bryndt G. Baliong! 👋
 
 <div align="center">
   <img src="./assets/tiredhalloweddd.gif" width="200px" style="border-radius: 20px;" alt="Halloweddd Gif">
+</div>
 
 I'm an IT student passionate about:
 
-<p>🌐 <b>Web Development</b> | 
-🎮 <b>Software Development</b> | 
-</div>
+🌐 **Web Development** | 🎮 **Software Development**
+
+---
 
 ## 🌱 Currently Learning
 
-### Languages
+### 💻 Languages
+| ![Kotlin](https://skillicons.dev/icons?i=kotlin) | ![javascript](https://skillicons.dev/icons?i=javascript) | ![cs](https://skillicons.dev/icons?i=cs) | ![python](https://skillicons.dev/icons?i=python) |
+|:---:|:---:|:---:|:---:|
+| Kotlin | JavaScript | C# | Python |
 
-| ![Kotlin](https://skillicons.dev/icons?i=kotlin) | ![JavaScript](https://skillicons.dev/icons?i=javascript)| ![C#](https://skillicons.dev/icons?i=cs) | ![C#](https://skillicons.dev/icons?i=python) |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Java | Kotlin | JavaScript | C# | Python |
+---
 
-### Web Technologies
+### 🌐 Web Technologies
+| ![html](https://skillicons.dev/icons?i=html) | ![css](https://skillicons.dev/icons?i=css) | ![javascript](https://skillicons.dev/icons?i=javascript) | ![react](https://skillicons.dev/icons?i=react) |
+|:---:|:---:|:---:|:---:|
+| HTML | CSS | JavaScript | React |
 
-| ![React.js](https://skillicons.dev/icons?i=react) | ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![Express.js](https://skillicons.dev/icons?i=express) | ![Firebase](https://skillicons.dev/icons?i=firebase) | ![AWS](https://skillicons.dev/icons?i=aws) | ![Google Cloud](https://skillicons.dev/icons?i=gcp) |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| React.js | Node.js | Express.js | Firebase | AWS | Google Cloud |
+---
 
-### Databases
-
-| ![SQL](https://skillicons.dev/icons?i=postgres) | ![NoSQL](https://skillicons.dev/icons?i=mongodb) |
+### 📱 Mobile Development
+| ![androidstudio](https://skillicons.dev/icons?i=androidstudio) | ![kotlin](https://skillicons.dev/icons?i=kotlin) |
 |:---:|:---:|
-| SQL | NoSQL |
+| Android Studio | Kotlin |
 
-### Tools
+---
 
-| ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) | ![VS Code](https://skillicons.dev/icons?i=vscode) | ![Unity](https://skillicons.dev/icons?i=unity) | ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) | ![Plastic SCM](https://skillicons.dev/icons?i=plasticscm) |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Visual Studio | VS Code | Figma | Git | GitHub |
-
-
-
+### 🛠️ Tools
+| ![github](https://skillicons.dev/icons?i=github) | ![figma](https://skillicons.dev/icons?i=figma) | ![vscode](https://skillicons.dev/icons?i=vscode) | ![androidstudio](https://skillicons.dev/icons?i=androidstudio) |
+|:---:|:---:|:---:|:---:|
+| GitHub | Figma | VS Code | Android Studio |
