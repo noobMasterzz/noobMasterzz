@@ -1,4 +1,4 @@
-# Halloooo, I'm Eman Bryndt G. Baliong! 👋
+# Hi, I'm Eman Bryndt G. Baliong! 👋
 
 <div align="center">
   <img src="./assets/tiredhalloweddd.gif" width="200px" style="border-radius: 20px;" alt="Halloweddd Gif">
